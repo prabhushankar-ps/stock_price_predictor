@@ -4,3 +4,4 @@ numpy
 keras.models
 matplotlib
 yfinance
+tensorflow
