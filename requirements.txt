@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+keras.models
+matplotlib.pyplot
+yfinance
