@@ -61,9 +61,7 @@ This repository contains a Streamlit-based web application for predicting stock 
 
 Contributions are welcome! Feel free to submit a pull request or raise an issue for improvements.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
